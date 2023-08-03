@@ -10,6 +10,8 @@ The API offers a flexible and efficient way to manage working hours, making it e
 - User Component
 - Project Component
 - API Requests
+- Unit Testing
+- Author
 
 
 
